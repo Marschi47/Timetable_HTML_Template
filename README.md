@@ -15,3 +15,7 @@ This is a simple HTML and CSS template for a timetable website. It is not very C
 ├── index.html               # HTML File
 └── README.md
 ```
+
+## Screenshot
+
+![timetablebymarschi47](https://user-images.githubusercontent.com/72624621/236198235-c4802659-2d0f-4c1e-8ddd-b85cd4fabff6.png)
